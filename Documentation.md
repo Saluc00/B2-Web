@@ -67,5 +67,5 @@ php artisan migrate
 ```
 
 ## Architecture du site
-
+![arch](https://github.com/Saluc00/B2-Web/blob/master/images/architecture.png)
 ## Structure de la base de données

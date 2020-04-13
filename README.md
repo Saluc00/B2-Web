@@ -2,8 +2,8 @@
 *Concevoir un site reprenant le concept de **Spotify**.*
 # Sommaire
 
-* [Pages](#-Pages)
-* [Features](#-features)
+* [Pages](#Pages)
+* [Features](#features)
 
 # Pages
 

@@ -25,7 +25,7 @@
 
 [Lien vers la présentation](https://www.canva.com/design/DAD5XDEpSCA/pXX9L8M1F0l0aUdGYUNkRA/edit?category=tACFasDnyEQ)
 
-[Liens vers le PDF de la présentation](https://github.com/Saluc00/B2-Web/tree/master/présentation/presentation.pdf) 
+[Liens vers le PDF de la présentation](https://github.com/Saluc00/B2-Web/tree/master/présentation/présentation.pdf) 
 
 ### Site
 
